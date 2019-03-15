@@ -1,0 +1,210 @@
+".container{width: 300px; height: 300px;}"
+.container {
+    color: red;
+    font-weight: bold;
+}
+.btn-default{
+ background-color: #ffffff;	
+ border-style: #000000;
+}
+.userName {
+	color: red;
+}
+
+.form-container{
+	width: 30%;
+  height: 8%;
+   margin-left: 40px;
+}
+	
+.containerbox {
+ 
+  width: 200px;
+  height: 25px;
+  
+}
+
+.form-Report-group{
+	width: 30%;
+  height: 8%;
+   margin-left: 40px;
+}
+
+div.container-pic
+img{position: relative;
+ margin-top: -95px;
+width: 100%
+}
+.searchpic
+  img {
+  width: 100%;
+  height: 8%;
+  object-fit: cover
+}
+
+
+	<img src="//lorempixel.com/100/100" />
+	
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #004080;
+  overflow: hidden;
+}
+
+div.topnav{
+	 font-family: "Times New Roman", Times, serif;
+	position: sticky;
+	 top: 0;
+	   width: 2000px;
+  height: 10px;
+  margin: auto;
+}
+#fixed_bar {
+   background-color:#804040;
+   color:black;
+   width:100%;
+   height:50px;
+   margin:0;
+   padding:0;
+   position:fixed;
+   top:0;
+   z-index:99;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {	
+	background-color: #804040;
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #9bfbfb;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a:active {
+  background-color:#4CAF50;
+  color:white;
+}
+
+a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+body {
+	background-color: powderblue;
+}
+
+h1 {
+	align:center;
+	color: blue;
+}
+h2 {
+	align:center;
+	position:middle;
+	color: #ffffff;
+	text-shadow: 3px 2px red;
+}
+
+h4 {
+	
+	
+	align:center;
+	position:middle;
+	color: #ffffff;
+	text-shadow: 3px 2px #ff00ff;
+}
+
+.line-through{
+	text-decoration-color:  #f40000;
+	 text-decoration-line: line-through;
+	 text-decoration-line-witdth: 4px;
+}
+
+p {
+	color: red;
+}
+
+.cars-selector input {
+
+#wrapper
+{
+	color: Red;
+  border: 5px solid #888;
+  display: inline-block;
+  padding:50px;
+  
+}
+h3 {align: center;
+ margin-left: 30px;}
+ 
+ table.table-outer, th, tr, td { 
+ 	
+ border: 1px solid green; 
+  margin-left: 40px;
+   margin-right: 15px;
+  
+ }
+ 
+ table.inner-table, th, td, tr{
+border-top: 1px solid #0a749c;
+  
+  border-left: 3px solid #0a749c;
+   border-bottom: 5px solid #0a749c;
+ 	border-top: 4px solid #0a749c;
+ 	border-right: 3px solid #0a749c;
+   width: 1000px;
+   height:75px;
+     font-size:13px;
+    font-family:Arial, Verdana, Tahoma, Helvetica, sans-serif;
+    font-weight:400;
+     
+ }
+ 
+  table.inner-table, td.buy{  
+   
+ 	
+ 	
+    width: 1250px;
+   height:75px;
+   word-wrap: break-line;
+   text-align:center;
+ } 
+ 
+  table.car-details, tr.heading th, tr, td  { 
+  
+  background-color: #004040;
+color: white;
+  text-shadow:  5px  #ff8000;
+ }
+ 
+ table, table-nested tr, td {
+ 
+  width: 500px;
+   border: 1px solid greens
+ 
+color: white;
+  text-shadow:  5px  #ff8000;
+ }
+ 
+ 
+table table-carReport, th, tr, td{
+		
+ margin-left: 40px;
+   margin-right: 20px;
+	width: 200px;
+	height: 50px;
+	border:1px solid #ffffff;
+}
+
+.report {
+    color: Red;
+    font-weight: bold;
+}
